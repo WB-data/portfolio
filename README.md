@@ -1,0 +1,1 @@
+This Repository is made of the projects I made in order to develop my analysis skills and coding skills it's made of basic code (non updated) that I did during courses and also based on personnal ideas
